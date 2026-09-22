@@ -2,263 +2,6 @@
 
 Dia        | Fase   | Símbol | Nom
 -----------|-------:|---|---
-2025-07-06 | 10.145 | 🌔 | Lluna gibosa creixent
-2025-07-07 | 11.000 | 🌔 | Lluna gibosa creixent
-2025-07-08 | 11.856 | 🌔 | Lluna gibosa creixent
-2025-07-09 | 12.789 | 🌔 | Lluna gibosa creixent
-2025-07-10 | 13.645 | 🌔 | Lluna gibosa creixent
-2025-07-11 | 14.578 | 🌕 | Lluna plena
-2025-07-12 | 15.511 | 🌖 | Lluna gibosa minvant
-2025-07-13 | 16.445 | 🌖 | Lluna gibosa minvant
-2025-07-14 | 17.456 | 🌖 | Lluna gibosa minvant
-2025-07-15 | 18.467 | 🌖 | Lluna gibosa minvant
-2025-07-16 | 19.400 | 🌖 | Lluna gibosa minvant
-2025-07-17 | 20.411 | 🌖 | Lluna gibosa minvant
-2025-07-18 | 21.422 | 🌗 | Cuarto minvant
-2025-07-19 | 22.433 | 🌘 | Lluna minvant
-2025-07-20 | 23.522 | 🌘 | Lluna minvant
-2025-07-21 | 24.533 | 🌘 | Lluna minvant
-2025-07-22 | 25.545 | 🌘 | Lluna minvant
-2025-07-23 | 26.633 | 🌘 | Lluna minvant
-2025-07-24 | 27.645 | 🌘 | Lluna minvant
-2025-07-25 |  0.656 | 🌑 | Lluna nova
-2025-07-26 |  1.667 | 🌒 | Lluna nova visible
-2025-07-27 |  2.600 | 🌒 | Lluna nova visible
-2025-07-28 |  3.533 | 🌒 | Lluna nova visible
-2025-07-29 |  4.467 | 🌒 | Lluna nova visible
-2025-07-30 |  5.322 | 🌒 | Lluna nova visible
-2025-07-31 |  6.178 | 🌒 | Lluna nova visible
-2025-08-01 |  7.033 | 🌓 | Cuart creixent
-2025-08-02 |  7.889 | 🌔 | Lluna gibosa creixent
-2025-08-03 |  8.745 | 🌔 | Lluna gibosa creixent
-2025-08-04 |  9.522 | 🌔 | Lluna gibosa creixent
-2025-08-05 | 10.456 | 🌔 | Lluna gibosa creixent
-2025-08-06 | 11.311 | 🌔 | Lluna gibosa creixent
-2025-08-07 | 12.245 | 🌔 | Lluna gibosa creixent
-2025-08-08 | 13.178 | 🌔 | Lluna gibosa creixent
-2025-08-09 | 14.111 | 🌕 | Lluna plena
-2025-08-10 | 15.122 | 🌖 | Lluna gibosa minvant
-2025-08-11 | 16.133 | 🌖 | Lluna gibosa minvant
-2025-08-12 | 17.145 | 🌖 | Lluna gibosa minvant
-2025-08-13 | 18.156 | 🌖 | Lluna gibosa minvant
-2025-08-14 | 19.167 | 🌖 | Lluna gibosa minvant
-2025-08-15 | 20.256 | 🌖 | Lluna gibosa minvant
-2025-08-16 | 21.267 | 🌗 | Cuarto minvant
-2025-08-17 | 22.278 | 🌘 | Lluna minvant
-2025-08-18 | 23.289 | 🌘 | Lluna minvant
-2025-08-19 | 24.300 | 🌘 | Lluna minvant
-2025-08-20 | 25.311 | 🌘 | Lluna minvant
-2025-08-21 | 26.245 | 🌘 | Lluna minvant
-2025-08-22 | 27.256 | 🌘 | Lluna minvant
-2025-08-23 |  0.189 | 🌑 | Lluna nova
-2025-08-24 |  1.122 | 🌒 | Lluna nova visible
-2025-08-25 |  2.056 | 🌒 | Lluna nova visible
-2025-08-26 |  2.989 | 🌒 | Lluna nova visible
-2025-08-27 |  3.845 | 🌒 | Lluna nova visible
-2025-08-28 |  4.700 | 🌒 | Lluna nova visible
-2025-08-29 |  5.556 | 🌒 | Lluna nova visible
-2025-08-30 |  6.411 | 🌒 | Lluna nova visible
-2025-08-31 |  7.267 | 🌓 | Cuart creixent
-2025-09-01 |  8.045 | 🌔 | Lluna gibosa creixent
-2025-09-02 |  8.978 | 🌔 | Lluna gibosa creixent
-2025-09-03 |  9.833 | 🌔 | Lluna gibosa creixent
-2025-09-04 | 10.767 | 🌔 | Lluna gibosa creixent
-2025-09-05 | 11.700 | 🌔 | Lluna gibosa creixent
-2025-09-06 | 12.711 | 🌔 | Lluna gibosa creixent
-2025-09-07 | 13.722 | 🌔 | Lluna gibosa creixent
-2025-09-08 | 14.733 | 🌕 | Lluna plena
-2025-09-09 | 15.745 | 🌖 | Lluna gibosa minvant
-2025-09-10 | 16.833 | 🌖 | Lluna gibosa minvant
-2025-09-11 | 17.845 | 🌖 | Lluna gibosa minvant
-2025-09-12 | 18.933 | 🌖 | Lluna gibosa minvant
-2025-09-13 | 19.945 | 🌖 | Lluna gibosa minvant
-2025-09-14 | 21.033 | 🌗 | Cuarto minvant
-2025-09-15 | 22.045 | 🌘 | Lluna minvant
-2025-09-16 | 22.978 | 🌘 | Lluna minvant
-2025-09-17 | 23.989 | 🌘 | Lluna minvant
-2025-09-18 | 24.922 | 🌘 | Lluna minvant
-2025-09-19 | 25.856 | 🌘 | Lluna minvant
-2025-09-20 | 26.789 | 🌘 | Lluna minvant
-2025-09-21 | 27.722 | 🌘 | Lluna minvant
-2025-09-22 |  0.656 | 🌑 | Lluna nova
-2025-09-23 |  1.511 | 🌒 | Lluna nova visible
-2025-09-24 |  2.367 | 🌒 | Lluna nova visible
-2025-09-25 |  3.222 | 🌒 | Lluna nova visible
-2025-09-26 |  4.078 | 🌒 | Lluna nova visible
-2025-09-27 |  4.933 | 🌒 | Lluna nova visible
-2025-09-28 |  5.711 | 🌒 | Lluna nova visible
-2025-09-29 |  6.567 | 🌒 | Lluna nova visible
-2025-09-30 |  7.422 | 🌓 | Cuart creixent
-2025-10-01 |  8.356 | 🌔 | Lluna gibosa creixent
-2025-10-02 |  9.211 | 🌔 | Lluna gibosa creixent
-2025-10-03 | 10.222 | 🌔 | Lluna gibosa creixent
-2025-10-04 | 11.156 | 🌔 | Lluna gibosa creixent
-2025-10-05 | 12.167 | 🌔 | Lluna gibosa creixent
-2025-10-06 | 13.256 | 🌔 | Lluna gibosa creixent
-2025-10-07 | 14.267 | 🌕 | Lluna plena
-2025-10-08 | 15.356 | 🌖 | Lluna gibosa minvant
-2025-10-09 | 16.445 | 🌖 | Lluna gibosa minvant
-2025-10-10 | 17.533 | 🌖 | Lluna gibosa minvant
-2025-10-11 | 18.622 | 🌖 | Lluna gibosa minvant
-2025-10-12 | 19.633 | 🌖 | Lluna gibosa minvant
-2025-10-13 | 20.645 | 🌖 | Lluna gibosa minvant
-2025-10-14 | 21.656 | 🌗 | Cuarto minvant
-2025-10-15 | 22.667 | 🌘 | Lluna minvant
-2025-10-16 | 23.600 | 🌘 | Lluna minvant
-2025-10-17 | 24.533 | 🌘 | Lluna minvant
-2025-10-18 | 25.389 | 🌘 | Lluna minvant
-2025-10-19 | 26.322 | 🌘 | Lluna minvant
-2025-10-20 | 27.178 | 🌘 | Lluna minvant
-2025-10-21 |  0.033 | 🌑 | Lluna nova
-2025-10-22 |  0.889 | 🌒 | Lluna nova visible
-2025-10-23 |  1.745 | 🌒 | Lluna nova visible
-2025-10-24 |  2.600 | 🌒 | Lluna nova visible
-2025-10-25 |  3.378 | 🌒 | Lluna nova visible
-2025-10-26 |  4.233 | 🌒 | Lluna nova visible
-2025-10-27 |  5.089 | 🌒 | Lluna nova visible
-2025-10-28 |  5.945 | 🌒 | Lluna nova visible
-2025-10-29 |  6.800 | 🌒 | Lluna nova visible
-2025-10-30 |  7.733 | 🌓 | Cuart creixent
-2025-10-31 |  8.667 | 🌔 | Lluna gibosa creixent
-2025-11-01 |  9.678 | 🌔 | Lluna gibosa creixent
-2025-11-02 | 10.689 | 🌔 | Lluna gibosa creixent
-2025-11-03 | 11.700 | 🌔 | Lluna gibosa creixent
-2025-11-04 | 12.789 | 🌔 | Lluna gibosa creixent
-2025-11-05 | 13.878 | 🌔 | Lluna gibosa creixent
-2025-11-06 | 14.967 | 🌕 | Lluna plena
-2025-11-07 | 16.056 | 🌖 | Lluna gibosa minvant
-2025-11-08 | 17.145 | 🌖 | Lluna gibosa minvant
-2025-11-09 | 18.233 | 🌖 | Lluna gibosa minvant
-2025-11-10 | 19.245 | 🌖 | Lluna gibosa minvant
-2025-11-11 | 20.256 | 🌖 | Lluna gibosa minvant
-2025-11-12 | 21.189 | 🌗 | Cuarto minvant
-2025-11-13 | 22.200 | 🌘 | Lluna minvant
-2025-11-14 | 23.056 | 🌘 | Lluna minvant
-2025-11-15 | 23.989 | 🌘 | Lluna minvant
-2025-11-16 | 24.845 | 🌘 | Lluna minvant
-2025-11-17 | 25.700 | 🌘 | Lluna minvant
-2025-11-18 | 26.556 | 🌘 | Lluna minvant
-2025-11-19 | 27.411 | 🌘 | Lluna minvant
-2025-11-20 |  0.267 | 🌑 | Lluna nova
-2025-11-21 |  1.045 | 🌒 | Lluna nova visible
-2025-11-22 |  1.900 | 🌒 | Lluna nova visible
-2025-11-23 |  2.756 | 🌒 | Lluna nova visible
-2025-11-24 |  3.611 | 🌒 | Lluna nova visible
-2025-11-25 |  4.467 | 🌒 | Lluna nova visible
-2025-11-26 |  5.322 | 🌒 | Lluna nova visible
-2025-11-27 |  6.256 | 🌒 | Lluna nova visible
-2025-11-28 |  7.189 | 🌓 | Cuart creixent
-2025-11-29 |  8.122 | 🌔 | Lluna gibosa creixent
-2025-11-30 |  9.133 | 🌔 | Lluna gibosa creixent
-2025-12-01 | 10.145 | 🌔 | Lluna gibosa creixent
-2025-12-02 | 11.233 | 🌔 | Lluna gibosa creixent
-2025-12-03 | 12.322 | 🌔 | Lluna gibosa creixent
-2025-12-04 | 13.411 | 🌔 | Lluna gibosa creixent
-2025-12-05 | 14.500 | 🌕 | Lluna plena
-2025-12-06 | 15.589 | 🌖 | Lluna gibosa minvant
-2025-12-07 | 16.678 | 🌖 | Lluna gibosa minvant
-2025-12-08 | 17.689 | 🌖 | Lluna gibosa minvant
-2025-12-09 | 18.700 | 🌖 | Lluna gibosa minvant
-2025-12-10 | 19.711 | 🌖 | Lluna gibosa minvant
-2025-12-11 | 20.645 | 🌖 | Lluna gibosa minvant
-2025-12-12 | 21.578 | 🌗 | Cuarto minvant
-2025-12-13 | 22.511 | 🌘 | Lluna minvant
-2025-12-14 | 23.367 | 🌘 | Lluna minvant
-2025-12-15 | 24.222 | 🌘 | Lluna minvant
-2025-12-16 | 25.000 | 🌘 | Lluna minvant
-2025-12-17 | 25.856 | 🌘 | Lluna minvant
-2025-12-18 | 26.711 | 🌘 | Lluna minvant
-2025-12-19 | 27.567 | 🌘 | Lluna minvant
-2025-12-20 |  0.422 | 🌑 | Lluna nova
-2025-12-21 |  1.278 | 🌒 | Lluna nova visible
-2025-12-22 |  2.133 | 🌒 | Lluna nova visible
-2025-12-23 |  2.989 | 🌒 | Lluna nova visible
-2025-12-24 |  3.922 | 🌒 | Lluna nova visible
-2025-12-25 |  4.856 | 🌒 | Lluna nova visible
-2025-12-26 |  5.789 | 🌒 | Lluna nova visible
-2025-12-27 |  6.722 | 🌒 | Lluna nova visible
-2025-12-28 |  7.656 | 🌓 | Cuart creixent
-2025-12-29 |  8.667 | 🌔 | Lluna gibosa creixent
-2025-12-30 |  9.756 | 🌔 | Lluna gibosa creixent
-2025-12-31 | 10.767 | 🌔 | Lluna gibosa creixent
-2026-01-01 | 11.856 | 🌔 | Lluna gibosa creixent
-2026-01-02 | 12.945 | 🌔 | Lluna gibosa creixent
-2026-01-03 | 13.956 | 🌔 | Lluna gibosa creixent
-2026-01-04 | 15.045 | 🌕 | Lluna plena
-2026-01-05 | 16.133 | 🌖 | Lluna gibosa minvant
-2026-01-06 | 17.145 | 🌖 | Lluna gibosa minvant
-2026-01-07 | 18.156 | 🌖 | Lluna gibosa minvant
-2026-01-08 | 19.089 | 🌖 | Lluna gibosa minvant
-2026-01-09 | 20.022 | 🌖 | Lluna gibosa minvant
-2026-01-10 | 20.878 | 🌖 | Lluna gibosa minvant
-2026-01-11 | 21.811 | 🌗 | Cuarto minvant
-2026-01-12 | 22.589 | 🌘 | Lluna minvant
-2026-01-13 | 23.445 | 🌘 | Lluna minvant
-2026-01-14 | 24.300 | 🌘 | Lluna minvant
-2026-01-15 | 25.156 | 🌘 | Lluna minvant
-2026-01-16 | 26.011 | 🌘 | Lluna minvant
-2026-01-17 | 26.867 | 🌘 | Lluna minvant
-2026-01-18 | 27.722 | 🌘 | Lluna minvant
-2026-01-19 |  0.578 | 🌑 | Lluna nova
-2026-01-20 |  1.511 | 🌒 | Lluna nova visible
-2026-01-21 |  2.445 | 🌒 | Lluna nova visible
-2026-01-22 |  3.378 | 🌒 | Lluna nova visible
-2026-01-23 |  4.311 | 🌒 | Lluna nova visible
-2026-01-24 |  5.322 | 🌒 | Lluna nova visible
-2026-01-25 |  6.256 | 🌒 | Lluna nova visible
-2026-01-26 |  7.267 | 🌓 | Cuart creixent
-2026-01-27 |  8.278 | 🌔 | Lluna gibosa creixent
-2026-01-28 |  9.367 | 🌔 | Lluna gibosa creixent
-2026-01-29 | 10.378 | 🌔 | Lluna gibosa creixent
-2026-01-30 | 11.389 | 🌔 | Lluna gibosa creixent
-2026-01-31 | 12.478 | 🌔 | Lluna gibosa creixent
-2026-02-01 | 13.489 | 🌔 | Lluna gibosa creixent
-2026-02-02 | 14.500 | 🌕 | Lluna plena
-2026-02-03 | 15.511 | 🌖 | Lluna gibosa minvant
-2026-02-04 | 16.522 | 🌖 | Lluna gibosa minvant
-2026-02-05 | 17.456 | 🌖 | Lluna gibosa minvant
-2026-02-06 | 18.389 | 🌖 | Lluna gibosa minvant
-2026-02-07 | 19.322 | 🌖 | Lluna gibosa minvant
-2026-02-08 | 20.178 | 🌖 | Lluna gibosa minvant
-2026-02-09 | 21.033 | 🌗 | Cuarto minvant
-2026-02-10 | 21.889 | 🌘 | Lluna minvant
-2026-02-11 | 22.667 | 🌘 | Lluna minvant
-2026-02-12 | 23.522 | 🌘 | Lluna minvant
-2026-02-13 | 24.378 | 🌘 | Lluna minvant
-2026-02-14 | 25.233 | 🌘 | Lluna minvant
-2026-02-15 | 26.167 | 🌘 | Lluna minvant
-2026-02-16 | 27.022 | 🌘 | Lluna minvant
-2026-02-17 | 27.956 | 🌘 | Lluna minvant
-2026-02-18 |  0.967 | 🌑 | Lluna nova
-2026-02-19 |  1.900 | 🌒 | Lluna nova visible
-2026-02-20 |  2.911 | 🌒 | Lluna nova visible
-2026-02-21 |  3.922 | 🌒 | Lluna nova visible
-2026-02-22 |  4.933 | 🌒 | Lluna nova visible
-2026-02-23 |  5.945 | 🌒 | Lluna nova visible
-2026-02-24 |  6.956 | 🌒 | Lluna nova visible
-2026-02-25 |  7.967 | 🌓 | Cuart creixent
-2026-02-26 |  8.978 | 🌔 | Lluna gibosa creixent
-2026-02-27 |  9.989 | 🌔 | Lluna gibosa creixent
-2026-02-28 | 11.000 | 🌔 | Lluna gibosa creixent
-2026-03-01 | 12.011 | 🌔 | Lluna gibosa creixent
-2026-03-02 | 13.022 | 🌔 | Lluna gibosa creixent
-2026-03-03 | 13.956 | 🌔 | Lluna gibosa creixent
-2026-03-04 | 14.967 | 🌕 | Lluna plena
-2026-03-05 | 15.900 | 🌖 | Lluna gibosa minvant
-2026-03-06 | 16.833 | 🌖 | Lluna gibosa minvant
-2026-03-07 | 17.689 | 🌖 | Lluna gibosa minvant
-2026-03-08 | 18.622 | 🌖 | Lluna gibosa minvant
-2026-03-09 | 19.400 | 🌖 | Lluna gibosa minvant
-2026-03-10 | 20.256 | 🌖 | Lluna gibosa minvant
-2026-03-11 | 21.111 | 🌗 | Cuarto minvant
-2026-03-12 | 21.967 | 🌘 | Lluna minvant
-2026-03-13 | 22.822 | 🌘 | Lluna minvant
-2026-03-14 | 23.678 | 🌘 | Lluna minvant
-2026-03-15 | 24.533 | 🌘 | Lluna minvant
-2026-03-16 | 25.467 | 🌘 | Lluna minvant
-2026-03-17 | 26.478 | 🌘 | Lluna minvant
-2026-03-18 | 27.411 | 🌘 | Lluna minvant
-2026-03-19 |  0.422 | 🌑 | Lluna nova
 2026-03-20 |  1.433 | 🌒 | Lluna nova visible
 2026-03-21 |  2.522 | 🌒 | Lluna nova visible
 2026-03-22 |  3.533 | 🌒 | Lluna nova visible
@@ -2111,3 +1854,260 @@ Dia        | Fase   | Símbol | Nom
 2031-04-12 | 18.856 | 🌖 | Lluna gibosa minvant
 2031-04-13 | 19.867 | 🌖 | Lluna gibosa minvant
 2031-04-14 | 20.878 | 🌖 | Lluna gibosa minvant
+2031-04-15 | 21.889 | 🌗 | Cuarto minvant
+2031-04-16 | 22.900 | 🌘 | Lluna minvant
+2031-04-17 | 23.911 | 🌘 | Lluna minvant
+2031-04-18 | 24.922 | 🌘 | Lluna minvant
+2031-04-19 | 25.856 | 🌘 | Lluna minvant
+2031-04-20 | 26.867 | 🌘 | Lluna minvant
+2031-04-21 | 27.800 | 🌘 | Lluna minvant
+2031-04-22 |  0.733 | 🌑 | Lluna nova
+2031-04-23 |  1.667 | 🌒 | Lluna nova visible
+2031-04-24 |  2.522 | 🌒 | Lluna nova visible
+2031-04-25 |  3.378 | 🌒 | Lluna nova visible
+2031-04-26 |  4.233 | 🌒 | Lluna nova visible
+2031-04-27 |  5.089 | 🌒 | Lluna nova visible
+2031-04-28 |  5.945 | 🌒 | Lluna nova visible
+2031-04-29 |  6.722 | 🌒 | Lluna nova visible
+2031-04-30 |  7.578 | 🌓 | Cuart creixent
+2031-05-01 |  8.511 | 🌔 | Lluna gibosa creixent
+2031-05-02 |  9.367 | 🌔 | Lluna gibosa creixent
+2031-05-03 | 10.300 | 🌔 | Lluna gibosa creixent
+2031-05-04 | 11.233 | 🌔 | Lluna gibosa creixent
+2031-05-05 | 12.245 | 🌔 | Lluna gibosa creixent
+2031-05-06 | 13.256 | 🌔 | Lluna gibosa creixent
+2031-05-07 | 14.345 | 🌕 | Lluna plena
+2031-05-08 | 15.356 | 🌖 | Lluna gibosa minvant
+2031-05-09 | 16.445 | 🌖 | Lluna gibosa minvant
+2031-05-10 | 17.533 | 🌖 | Lluna gibosa minvant
+2031-05-11 | 18.545 | 🌖 | Lluna gibosa minvant
+2031-05-12 | 19.633 | 🌖 | Lluna gibosa minvant
+2031-05-13 | 20.645 | 🌖 | Lluna gibosa minvant
+2031-05-14 | 21.656 | 🌗 | Cuarto minvant
+2031-05-15 | 22.667 | 🌘 | Lluna minvant
+2031-05-16 | 23.600 | 🌘 | Lluna minvant
+2031-05-17 | 24.533 | 🌘 | Lluna minvant
+2031-05-18 | 25.467 | 🌘 | Lluna minvant
+2031-05-19 | 26.400 | 🌘 | Lluna minvant
+2031-05-20 | 27.333 | 🌘 | Lluna minvant
+2031-05-21 |  0.189 | 🌑 | Lluna nova
+2031-05-22 |  1.045 | 🌒 | Lluna nova visible
+2031-05-23 |  1.900 | 🌒 | Lluna nova visible
+2031-05-24 |  2.756 | 🌒 | Lluna nova visible
+2031-05-25 |  3.611 | 🌒 | Lluna nova visible
+2031-05-26 |  4.467 | 🌒 | Lluna nova visible
+2031-05-27 |  5.322 | 🌒 | Lluna nova visible
+2031-05-28 |  6.178 | 🌒 | Lluna nova visible
+2031-05-29 |  7.033 | 🌓 | Cuart creixent
+2031-05-30 |  7.889 | 🌔 | Lluna gibosa creixent
+2031-05-31 |  8.822 | 🌔 | Lluna gibosa creixent
+2031-06-01 |  9.756 | 🌔 | Lluna gibosa creixent
+2031-06-02 | 10.767 | 🌔 | Lluna gibosa creixent
+2031-06-03 | 11.778 | 🌔 | Lluna gibosa creixent
+2031-06-04 | 12.867 | 🌔 | Lluna gibosa creixent
+2031-06-05 | 13.956 | 🌔 | Lluna gibosa creixent
+2031-06-06 | 15.045 | 🌕 | Lluna plena
+2031-06-07 | 16.133 | 🌖 | Lluna gibosa minvant
+2031-06-08 | 17.222 | 🌖 | Lluna gibosa minvant
+2031-06-09 | 18.311 | 🌖 | Lluna gibosa minvant
+2031-06-10 | 19.322 | 🌖 | Lluna gibosa minvant
+2031-06-11 | 20.333 | 🌖 | Lluna gibosa minvant
+2031-06-12 | 21.345 | 🌗 | Cuarto minvant
+2031-06-13 | 22.278 | 🌘 | Lluna minvant
+2031-06-14 | 23.289 | 🌘 | Lluna minvant
+2031-06-15 | 24.145 | 🌘 | Lluna minvant
+2031-06-16 | 25.078 | 🌘 | Lluna minvant
+2031-06-17 | 25.933 | 🌘 | Lluna minvant
+2031-06-18 | 26.789 | 🌘 | Lluna minvant
+2031-06-19 | 27.645 | 🌘 | Lluna minvant
+2031-06-20 |  0.500 | 🌑 | Lluna nova
+2031-06-21 |  1.356 | 🌒 | Lluna nova visible
+2031-06-22 |  2.211 | 🌒 | Lluna nova visible
+2031-06-23 |  3.067 | 🌒 | Lluna nova visible
+2031-06-24 |  3.922 | 🌒 | Lluna nova visible
+2031-06-25 |  4.778 | 🌒 | Lluna nova visible
+2031-06-26 |  5.633 | 🌒 | Lluna nova visible
+2031-06-27 |  6.489 | 🌒 | Lluna nova visible
+2031-06-28 |  7.422 | 🌓 | Cuart creixent
+2031-06-29 |  8.356 | 🌔 | Lluna gibosa creixent
+2031-06-30 |  9.367 | 🌔 | Lluna gibosa creixent
+2031-07-01 | 10.378 | 🌔 | Lluna gibosa creixent
+2031-07-02 | 11.467 | 🌔 | Lluna gibosa creixent
+2031-07-03 | 12.478 | 🌔 | Lluna gibosa creixent
+2031-07-04 | 13.567 | 🌔 | Lluna gibosa creixent
+2031-07-05 | 14.733 | 🌕 | Lluna plena
+2031-07-06 | 15.822 | 🌖 | Lluna gibosa minvant
+2031-07-07 | 16.911 | 🌖 | Lluna gibosa minvant
+2031-07-08 | 18.000 | 🌖 | Lluna gibosa minvant
+2031-07-09 | 19.011 | 🌖 | Lluna gibosa minvant
+2031-07-10 | 20.022 | 🌖 | Lluna gibosa minvant
+2031-07-11 | 20.956 | 🌖 | Lluna gibosa minvant
+2031-07-12 | 21.967 | 🌗 | Cuarto minvant
+2031-07-13 | 22.822 | 🌘 | Lluna minvant
+2031-07-14 | 23.756 | 🌘 | Lluna minvant
+2031-07-15 | 24.611 | 🌘 | Lluna minvant
+2031-07-16 | 25.467 | 🌘 | Lluna minvant
+2031-07-17 | 26.322 | 🌘 | Lluna minvant
+2031-07-18 | 27.178 | 🌘 | Lluna minvant
+2031-07-19 | 27.956 | 🌘 | Lluna minvant
+2031-07-20 |  0.811 | 🌑 | Lluna nova
+2031-07-21 |  1.667 | 🌒 | Lluna nova visible
+2031-07-22 |  2.522 | 🌒 | Lluna nova visible
+2031-07-23 |  3.378 | 🌒 | Lluna nova visible
+2031-07-24 |  4.311 | 🌒 | Lluna nova visible
+2031-07-25 |  5.167 | 🌒 | Lluna nova visible
+2031-07-26 |  6.100 | 🌒 | Lluna nova visible
+2031-07-27 |  7.033 | 🌓 | Cuart creixent
+2031-07-28 |  8.045 | 🌔 | Lluna gibosa creixent
+2031-07-29 |  9.056 | 🌔 | Lluna gibosa creixent
+2031-07-30 | 10.067 | 🌔 | Lluna gibosa creixent
+2031-07-31 | 11.078 | 🌔 | Lluna gibosa creixent
+2031-08-01 | 12.167 | 🌔 | Lluna gibosa creixent
+2031-08-02 | 13.256 | 🌔 | Lluna gibosa creixent
+2031-08-03 | 14.345 | 🌕 | Lluna plena
+2031-08-04 | 15.433 | 🌖 | Lluna gibosa minvant
+2031-08-05 | 16.522 | 🌖 | Lluna gibosa minvant
+2031-08-06 | 17.611 | 🌖 | Lluna gibosa minvant
+2031-08-07 | 18.622 | 🌖 | Lluna gibosa minvant
+2031-08-08 | 19.633 | 🌖 | Lluna gibosa minvant
+2031-08-09 | 20.567 | 🌖 | Lluna gibosa minvant
+2031-08-10 | 21.500 | 🌗 | Cuarto minvant
+2031-08-11 | 22.356 | 🌘 | Lluna minvant
+2031-08-12 | 23.211 | 🌘 | Lluna minvant
+2031-08-13 | 24.067 | 🌘 | Lluna minvant
+2031-08-14 | 24.922 | 🌘 | Lluna minvant
+2031-08-15 | 25.778 | 🌘 | Lluna minvant
+2031-08-16 | 26.556 | 🌘 | Lluna minvant
+2031-08-17 | 27.411 | 🌘 | Lluna minvant
+2031-08-18 |  0.267 | 🌑 | Lluna nova
+2031-08-19 |  1.200 | 🌒 | Lluna nova visible
+2031-08-20 |  2.056 | 🌒 | Lluna nova visible
+2031-08-21 |  2.989 | 🌒 | Lluna nova visible
+2031-08-22 |  3.845 | 🌒 | Lluna nova visible
+2031-08-23 |  4.778 | 🌒 | Lluna nova visible
+2031-08-24 |  5.711 | 🌒 | Lluna nova visible
+2031-08-25 |  6.722 | 🌒 | Lluna nova visible
+2031-08-26 |  7.733 | 🌓 | Cuart creixent
+2031-08-27 |  8.745 | 🌔 | Lluna gibosa creixent
+2031-08-28 |  9.756 | 🌔 | Lluna gibosa creixent
+2031-08-29 | 10.845 | 🌔 | Lluna gibosa creixent
+2031-08-30 | 11.856 | 🌔 | Lluna gibosa creixent
+2031-08-31 | 12.945 | 🌔 | Lluna gibosa creixent
+2031-09-01 | 14.033 | 🌕 | Lluna plena
+2031-09-02 | 15.045 | 🌖 | Lluna gibosa minvant
+2031-09-03 | 16.133 | 🌖 | Lluna gibosa minvant
+2031-09-04 | 17.145 | 🌖 | Lluna gibosa minvant
+2031-09-05 | 18.156 | 🌖 | Lluna gibosa minvant
+2031-09-06 | 19.089 | 🌖 | Lluna gibosa minvant
+2031-09-07 | 20.022 | 🌖 | Lluna gibosa minvant
+2031-09-08 | 20.878 | 🌖 | Lluna gibosa minvant
+2031-09-09 | 21.733 | 🌗 | Cuarto minvant
+2031-09-10 | 22.589 | 🌘 | Lluna minvant
+2031-09-11 | 23.445 | 🌘 | Lluna minvant
+2031-09-12 | 24.300 | 🌘 | Lluna minvant
+2031-09-13 | 25.156 | 🌘 | Lluna minvant
+2031-09-14 | 26.011 | 🌘 | Lluna minvant
+2031-09-15 | 26.867 | 🌘 | Lluna minvant
+2031-09-16 | 27.722 | 🌘 | Lluna minvant
+2031-09-17 |  0.656 | 🌑 | Lluna nova
+2031-09-18 |  1.589 | 🌒 | Lluna nova visible
+2031-09-19 |  2.522 | 🌒 | Lluna nova visible
+2031-09-20 |  3.456 | 🌒 | Lluna nova visible
+2031-09-21 |  4.467 | 🌒 | Lluna nova visible
+2031-09-22 |  5.400 | 🌒 | Lluna nova visible
+2031-09-23 |  6.411 | 🌒 | Lluna nova visible
+2031-09-24 |  7.422 | 🌓 | Cuart creixent
+2031-09-25 |  8.433 | 🌔 | Lluna gibosa creixent
+2031-09-26 |  9.445 | 🌔 | Lluna gibosa creixent
+2031-09-27 | 10.533 | 🌔 | Lluna gibosa creixent
+2031-09-28 | 11.545 | 🌔 | Lluna gibosa creixent
+2031-09-29 | 12.556 | 🌔 | Lluna gibosa creixent
+2031-09-30 | 13.645 | 🌔 | Lluna gibosa creixent
+2031-10-01 | 14.656 | 🌕 | Lluna plena
+2031-10-02 | 15.667 | 🌖 | Lluna gibosa minvant
+2031-10-03 | 16.600 | 🌖 | Lluna gibosa minvant
+2031-10-04 | 17.611 | 🌖 | Lluna gibosa minvant
+2031-10-05 | 18.467 | 🌖 | Lluna gibosa minvant
+2031-10-06 | 19.400 | 🌖 | Lluna gibosa minvant
+2031-10-07 | 20.256 | 🌖 | Lluna gibosa minvant
+2031-10-08 | 21.111 | 🌗 | Cuarto minvant
+2031-10-09 | 21.967 | 🌘 | Lluna minvant
+2031-10-10 | 22.745 | 🌘 | Lluna minvant
+2031-10-11 | 23.600 | 🌘 | Lluna minvant
+2031-10-12 | 24.456 | 🌘 | Lluna minvant
+2031-10-13 | 25.311 | 🌘 | Lluna minvant
+2031-10-14 | 26.245 | 🌘 | Lluna minvant
+2031-10-15 | 27.178 | 🌘 | Lluna minvant
+2031-10-16 |  0.111 | 🌑 | Lluna nova
+2031-10-17 |  1.122 | 🌒 | Lluna nova visible
+2031-10-18 |  2.056 | 🌒 | Lluna nova visible
+2031-10-19 |  3.067 | 🌒 | Lluna nova visible
+2031-10-20 |  4.078 | 🌒 | Lluna nova visible
+2031-10-21 |  5.089 | 🌒 | Lluna nova visible
+2031-10-22 |  6.100 | 🌒 | Lluna nova visible
+2031-10-23 |  7.111 | 🌓 | Cuart creixent
+2031-10-24 |  8.200 | 🌔 | Lluna gibosa creixent
+2031-10-25 |  9.211 | 🌔 | Lluna gibosa creixent
+2031-10-26 | 10.222 | 🌔 | Lluna gibosa creixent
+2031-10-27 | 11.233 | 🌔 | Lluna gibosa creixent
+2031-10-28 | 12.167 | 🌔 | Lluna gibosa creixent
+2031-10-29 | 13.178 | 🌔 | Lluna gibosa creixent
+2031-10-30 | 14.189 | 🌕 | Lluna plena
+2031-10-31 | 15.122 | 🌖 | Lluna gibosa minvant
+2031-11-01 | 16.056 | 🌖 | Lluna gibosa minvant
+2031-11-02 | 16.911 | 🌖 | Lluna gibosa minvant
+2031-11-03 | 17.845 | 🌖 | Lluna gibosa minvant
+2031-11-04 | 18.700 | 🌖 | Lluna gibosa minvant
+2031-11-05 | 19.556 | 🌖 | Lluna gibosa minvant
+2031-11-06 | 20.333 | 🌖 | Lluna gibosa minvant
+2031-11-07 | 21.189 | 🌗 | Cuarto minvant
+2031-11-08 | 22.045 | 🌘 | Lluna minvant
+2031-11-09 | 22.900 | 🌘 | Lluna minvant
+2031-11-10 | 23.756 | 🌘 | Lluna minvant
+2031-11-11 | 24.689 | 🌘 | Lluna minvant
+2031-11-12 | 25.622 | 🌘 | Lluna minvant
+2031-11-13 | 26.556 | 🌘 | Lluna minvant
+2031-11-14 | 27.567 | 🌘 | Lluna minvant
+2031-11-15 |  0.578 | 🌑 | Lluna nova
+2031-11-16 |  1.589 | 🌒 | Lluna nova visible
+2031-11-17 |  2.678 | 🌒 | Lluna nova visible
+2031-11-18 |  3.689 | 🌒 | Lluna nova visible
+2031-11-19 |  4.778 | 🌒 | Lluna nova visible
+2031-11-20 |  5.789 | 🌒 | Lluna nova visible
+2031-11-21 |  6.800 | 🌒 | Lluna nova visible
+2031-11-22 |  7.811 | 🌓 | Cuart creixent
+2031-11-23 |  8.822 | 🌔 | Lluna gibosa creixent
+2031-11-24 |  9.833 | 🌔 | Lluna gibosa creixent
+2031-11-25 | 10.767 | 🌔 | Lluna gibosa creixent
+2031-11-26 | 11.700 | 🌔 | Lluna gibosa creixent
+2031-11-27 | 12.711 | 🌔 | Lluna gibosa creixent
+2031-11-28 | 13.567 | 🌔 | Lluna gibosa creixent
+2031-11-29 | 14.500 | 🌕 | Lluna plena
+2031-11-30 | 15.356 | 🌖 | Lluna gibosa minvant
+2031-12-01 | 16.289 | 🌖 | Lluna gibosa minvant
+2031-12-02 | 17.145 | 🌖 | Lluna gibosa minvant
+2031-12-03 | 17.922 | 🌖 | Lluna gibosa minvant
+2031-12-04 | 18.778 | 🌖 | Lluna gibosa minvant
+2031-12-05 | 19.633 | 🌖 | Lluna gibosa minvant
+2031-12-06 | 20.489 | 🌖 | Lluna gibosa minvant
+2031-12-07 | 21.345 | 🌗 | Cuarto minvant
+2031-12-08 | 22.200 | 🌘 | Lluna minvant
+2031-12-09 | 23.056 | 🌘 | Lluna minvant
+2031-12-10 | 23.989 | 🌘 | Lluna minvant
+2031-12-11 | 25.000 | 🌘 | Lluna minvant
+2031-12-12 | 26.011 | 🌘 | Lluna minvant
+2031-12-13 | 27.022 | 🌘 | Lluna minvant
+2031-12-14 |  0.111 | 🌑 | Lluna nova
+2031-12-15 |  1.122 | 🌒 | Lluna nova visible
+2031-12-16 |  2.211 | 🌒 | Lluna nova visible
+2031-12-17 |  3.300 | 🌒 | Lluna nova visible
+2031-12-18 |  4.389 | 🌒 | Lluna nova visible
+2031-12-19 |  5.400 | 🌒 | Lluna nova visible
+2031-12-20 |  6.411 | 🌒 | Lluna nova visible
+2031-12-21 |  7.422 | 🌓 | Cuart creixent
+2031-12-22 |  8.433 | 🌔 | Lluna gibosa creixent
+2031-12-23 |  9.367 | 🌔 | Lluna gibosa creixent
+2031-12-24 | 10.300 | 🌔 | Lluna gibosa creixent
+2031-12-25 | 11.233 | 🌔 | Lluna gibosa creixent
+2031-12-26 | 12.089 | 🌔 | Lluna gibosa creixent
+2031-12-27 | 13.022 | 🌔 | Lluna gibosa creixent

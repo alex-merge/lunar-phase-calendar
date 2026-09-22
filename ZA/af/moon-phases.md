@@ -2,41 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2025-07-11 | 14.578 | 🌕 | Volmaan
-2025-07-18 | 21.422 | 🌗 | Laaste kwartier
-2025-07-25 |  0.656 | 🌑 | Donkermaan
-2025-08-01 |  7.033 | 🌓 | Eerste kwartier
-2025-08-09 | 14.111 | 🌕 | Volmaan
-2025-08-16 | 21.267 | 🌗 | Laaste kwartier
-2025-08-23 |  0.189 | 🌑 | Donkermaan
-2025-08-31 |  7.267 | 🌓 | Eerste kwartier
-2025-09-08 | 14.733 | 🌕 | Volmaan
-2025-09-14 | 21.033 | 🌗 | Laaste kwartier
-2025-09-22 |  0.656 | 🌑 | Donkermaan
-2025-09-30 |  7.422 | 🌓 | Eerste kwartier
-2025-10-07 | 14.267 | 🌕 | Volmaan
-2025-10-14 | 21.656 | 🌗 | Laaste kwartier
-2025-10-21 |  0.033 | 🌑 | Donkermaan
-2025-10-30 |  7.733 | 🌓 | Eerste kwartier
-2025-11-06 | 14.967 | 🌕 | Volmaan
-2025-11-12 | 21.189 | 🌗 | Laaste kwartier
-2025-11-20 |  0.267 | 🌑 | Donkermaan
-2025-11-28 |  7.189 | 🌓 | Eerste kwartier
-2025-12-05 | 14.500 | 🌕 | Volmaan
-2025-12-12 | 21.578 | 🌗 | Laaste kwartier
-2025-12-20 |  0.422 | 🌑 | Donkermaan
-2025-12-28 |  7.656 | 🌓 | Eerste kwartier
-2026-01-04 | 15.045 | 🌕 | Volmaan
-2026-01-11 | 21.811 | 🌗 | Laaste kwartier
-2026-01-19 |  0.578 | 🌑 | Donkermaan
-2026-01-26 |  7.267 | 🌓 | Eerste kwartier
-2026-02-02 | 14.500 | 🌕 | Volmaan
-2026-02-09 | 21.033 | 🌗 | Laaste kwartier
-2026-02-18 |  0.967 | 🌑 | Donkermaan
-2026-02-25 |  7.967 | 🌓 | Eerste kwartier
-2026-03-04 | 14.967 | 🌕 | Volmaan
-2026-03-11 | 21.111 | 🌗 | Laaste kwartier
-2026-03-19 |  0.422 | 🌑 | Donkermaan
 2026-03-26 |  7.656 | 🌓 | Eerste kwartier
 2026-04-02 | 14.422 | 🌕 | Volmaan
 2026-04-10 | 21.267 | 🌗 | Laaste kwartier
@@ -287,3 +252,38 @@ Dag        | Fase   | Simbool | Naam
 2031-03-23 |  0.267 | 🌑 | Donkermaan
 2031-03-31 |  7.422 | 🌓 | Eerste kwartier
 2031-04-08 | 14.733 | 🌕 | Volmaan
+2031-04-15 | 21.889 | 🌗 | Laaste kwartier
+2031-04-22 |  0.733 | 🌑 | Donkermaan
+2031-04-30 |  7.578 | 🌓 | Eerste kwartier
+2031-05-07 | 14.345 | 🌕 | Volmaan
+2031-05-14 | 21.656 | 🌗 | Laaste kwartier
+2031-05-21 |  0.189 | 🌑 | Donkermaan
+2031-05-29 |  7.033 | 🌓 | Eerste kwartier
+2031-06-06 | 15.045 | 🌕 | Volmaan
+2031-06-12 | 21.345 | 🌗 | Laaste kwartier
+2031-06-20 |  0.500 | 🌑 | Donkermaan
+2031-06-28 |  7.422 | 🌓 | Eerste kwartier
+2031-07-05 | 14.733 | 🌕 | Volmaan
+2031-07-12 | 21.967 | 🌗 | Laaste kwartier
+2031-07-20 |  0.811 | 🌑 | Donkermaan
+2031-07-27 |  7.033 | 🌓 | Eerste kwartier
+2031-08-03 | 14.345 | 🌕 | Volmaan
+2031-08-10 | 21.500 | 🌗 | Laaste kwartier
+2031-08-18 |  0.267 | 🌑 | Donkermaan
+2031-08-26 |  7.733 | 🌓 | Eerste kwartier
+2031-09-01 | 14.033 | 🌕 | Volmaan
+2031-09-09 | 21.733 | 🌗 | Laaste kwartier
+2031-09-17 |  0.656 | 🌑 | Donkermaan
+2031-09-24 |  7.422 | 🌓 | Eerste kwartier
+2031-10-01 | 14.656 | 🌕 | Volmaan
+2031-10-08 | 21.111 | 🌗 | Laaste kwartier
+2031-10-16 |  0.111 | 🌑 | Donkermaan
+2031-10-23 |  7.111 | 🌓 | Eerste kwartier
+2031-10-30 | 14.189 | 🌕 | Volmaan
+2031-11-07 | 21.189 | 🌗 | Laaste kwartier
+2031-11-15 |  0.578 | 🌑 | Donkermaan
+2031-11-22 |  7.811 | 🌓 | Eerste kwartier
+2031-11-29 | 14.500 | 🌕 | Volmaan
+2031-12-07 | 21.345 | 🌗 | Laaste kwartier
+2031-12-14 |  0.111 | 🌑 | Donkermaan
+2031-12-21 |  7.422 | 🌓 | Eerste kwartier
