@@ -6,7 +6,9 @@ from hashlib import sha256
 from json import load
 from os.path import isdir
 from os import makedirs, chdir
+from zoneinfo import ZoneInfo
 
+import astronomy  # type: ignore[import-untyped]
 from astral.moon import phase
 
 # pylint:disable=unspecified-encoding,disable=consider-using-with
@@ -21,6 +23,14 @@ HEADER = load(open('headers.json'))
 
 # Explicitely capitalize with title() all words.
 TITLES = ('en', 'pt')
+
+# Full moon calendars contain timed events with the exact time of the full
+# moon (in the time zone of the country) and reminders.
+FULL_MOON_DURATION = timedelta(hours=1)
+# Reminder on the day before the full moon at this local hour, None to disable.
+FULL_MOON_EVE_REMINDER_HOUR: int | None = 14
+# Reminder at the exact time of the full moon.
+FULL_MOON_REMINDER_AT_TIME = False
 
 
 def moon_phase_code_to_name(code: int, lang: str = 'en') -> str:
@@ -75,6 +85,67 @@ def day_to_moon_phase_and_accurate_code(day: date) -> tuple[float, int]:
         return phase_today, (code_today + 1) % 8
 
     return phase_today, code_today
+
+
+def country_timezone(country: str) -> ZoneInfo:
+    """Get time zone of country from its calendar header template."""
+    for line in open(f'../../templates/calendar-header-{country}.txt'):
+        if line.startswith('X-WR-TIMEZONE:'):
+            return ZoneInfo(line.split(':', 1)[1].strip())
+    raise ValueError(f'No time zone found for {country}')
+
+
+def full_moon_instants(start: date, end: date) -> list[datetime]:
+    """Get exact times, in UTC and truncated to the minute, of full moons."""
+    limit = astronomy.Time.Make(end.year, end.month, end.day, 0, 0, 0)
+    time = astronomy.Time.Make(start.year, start.month, start.day, 0, 0, 0)
+    instants: list[datetime] = []
+    while True:
+        time = astronomy.SearchMoonPhase(180.0, time, 40)
+        if time is None or time.ut >= limit.ut:
+            return instants
+        instants.append(time.Utc().replace(tzinfo=UTC, second=0,
+                                           microsecond=0))
+        time = time.AddDays(1)
+
+
+def eve_trigger(instant: datetime, tz: ZoneInfo, hour: int) -> str:
+    """Get alarm trigger, before instant, for the day before at local hour."""
+    eve = (instant.astimezone(tz) - timedelta(days=1)).replace(
+        hour=hour, minute=0, second=0, microsecond=0)
+    # Subtract in UTC, as subtracting datetimes with the same time zone
+    # ignores changes between summer and winter time.
+    hours, minutes = divmod(int((instant - eve.astimezone(UTC)
+                                 ).total_seconds() // 60), 60)
+    return f'-PT{hours}H{minutes}M'
+
+
+def alarm(trigger: str, description: str) -> str:
+    """Get alarm to be shown at trigger."""
+    return f'BEGIN:VALARM\nACTION:DISPLAY\nDESCRIPTION:{description}\n' \
+        f'TRIGGER:{trigger}\nEND:VALARM\n'
+
+
+def full_moon_event(instant: datetime, tz: ZoneInfo, country: str,
+                    lang: str, dtstamp: date) -> str:
+    """Get timed full moon event with reminders, without event footer."""
+    symbol = moon_phase_code_to_symbol(4)
+    name = moon_phase_code_to_name(4, lang)
+    summary = f'{symbol} {name} ({instant.astimezone(tz):%H:%M})'
+    uid = sha256((instant.isoformat() + symbol + name + country + lang
+                  ).encode()).hexdigest()[:16]
+    event = 'BEGIN:VEVENT\n' \
+        f'DTSTAMP:{dtstamp:%Y%m%d}T040000Z\n' \
+        f'SUMMARY:{summary}\n' \
+        f'UID:{uid}@lunar-phase-calendar.pandermusubi\n' \
+        f'DTSTART:{instant:%Y%m%dT%H%M%SZ}\n' \
+        f'DTEND:{instant + FULL_MOON_DURATION:%Y%m%dT%H%M%SZ}\n'
+    if FULL_MOON_EVE_REMINDER_HOUR is not None:
+        event += alarm(eve_trigger(instant, tz, FULL_MOON_EVE_REMINDER_HOUR),
+                       summary)
+    if FULL_MOON_REMINDER_AT_TIME:
+        event += alarm('PT0S', summary)
+    return event
 
 
 def write_files(country: str, lang: str) -> None:
@@ -209,17 +280,13 @@ def write_files(country: str, lang: str) -> None:
         if code == 4:
             tsv_full.write(f'{day}\t{phase:6.3f}\n')
             mkd_full.write(f'{day} | {phase:6.3f}\n')
-            ics_full.write('BEGIN:VEVENT\n')
-            ics_full.write(f'DTSTAMP:{dtstamp.strftime("%Y%m%d")}T040000Z\n')
-            ics_full.write(f'SUMMARY:{symbol} {name}\n')
-            uid = sha256((str(day) + str(phase) + symbol + name + country + lang).encode()).hexdigest()[:16]
-            ics_full.write(f'UID:{uid}@lunar-phase-calendar.pandermusubi\n')
-            ics_start = f'{day}'
-            ics_end = f'{day + timedelta(days=1)}'
-            ics_full.write('DTSTART;VALUE='
-                           f'DATE:{ics_start.replace("-", "")}\n')
-            ics_full.write(f'DTEND;VALUE=DATE:{ics_end.replace("-", "")}\n')
-            ics_full.write(event_footer)
+
+    # Full moon events with exact time and reminders.
+    tz = country_timezone(country)
+    dtstamp = start + timedelta(days=-7)
+    for instant in full_moon_instants(start, end):
+        ics_full.write(full_moon_event(instant, tz, country, lang, dtstamp))
+        ics_full.write(event_footer)
 
     calendar_footer = open('../../templates/calendar-footer.txt')
     for line in calendar_footer:
